@@ -1,0 +1,37 @@
+img{
+  max-width: 100%;
+}
+
+.doc-nav{
+  list-style:none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-user{
+  color: #fafafa;
+  cursor: pointer;
+}
+
+.file-upload-label{
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 6px 12px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.user-data-table{
+  width:100%;
+}
+
+.user-data-table tr td:first-child{
+  text-align: right;
+  padding-right:8px;
+}
+
+.user-data-table tr td:nth-child(2){
+  text-align: left;
+  padding-left:8px;
+}
