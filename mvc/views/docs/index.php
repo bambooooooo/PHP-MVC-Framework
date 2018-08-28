@@ -172,7 +172,7 @@
         <div class="text-success my-3 ml-2">
           <h3>Pliki</h3>
         </div>
-        <div class="ml-1 lead" style="font-size:1.1rem"></div>
+        <div class="ml-1 lead" style="font-size:1.1rem">Soon...</div>
       </section>
       <section>
         <div class="text-success my-3 ml-2">
